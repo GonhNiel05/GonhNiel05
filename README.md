@@ -106,10 +106,10 @@
 ## 📬 Contact Me
 
 <p align="left">
-  <a href="mailto:gonhniel@gmail.com"><img src="https://img.shields.io/badge/Gmail-gonhniel%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/LienTran"><img src="https://img.shields.io/badge/LinkedIn-LienTran-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/GonhNiel05"><img src="https://img.shields.io/badge/GitHub-GonhNiel05-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="tel:0706508460"><img src="https://img.shields.io/badge/Phone-0706508460-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:gonhniel@gmail.com"><img src="https://img.shields.io/badge/Gmail-gonhniel%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"\n /></a>
+  <a href="www.linkedin.com/in/lien-tran-8596933bb"><img src="https://img.shields.io/badge/LinkedIn-LienTran-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"\n /></a>
+  <a href="https://github.com/GonhNiel05"><img src="https://img.shields.io/badge/GitHub-GonhNiel05-181717?style=for-the-badge&logo=github&logoColor=white"\n /></a>
+  <a href="tel:0706508460"><img src="https://img.shields.io/badge/Phone-0706508460-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"\n /></a>
 </p>
 
 ---
