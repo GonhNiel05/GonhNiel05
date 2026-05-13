@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hồng Liên</h1>
-<h3 align="center">Aspiring Data Analyst · Data Science Student · HUFLIT '27</h3>
+<h1 align="center">Hi 👋, I'm Trần Lâm Hồng Liên</h1>
+<h3 align="center"> Data Science Student · HUFLIT K29</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=900&color=A78BFA&center=true&vCenter=true&width=780&lines=Turning+Raw+Data+into+Real+Insights;From+Data+to+Decisions;Data+Never+Lies+%E2%80%94+I+Just+Listen" alt="Slogan" />
