@@ -15,20 +15,20 @@
 
 ## 🙋‍♀️ About Me
 
-- 🎓 Sinh viên năm cuối **Khoa Học Dữ Liệu** tại **HUFLIT** (GPA: 3.22 / 4.0)
-- 🔍 Đang tìm kiếm vị trí **Data Analyst Intern** để ứng dụng kỹ năng Python & SQL vào thực tế
-- 📊 Đam mê biến dữ liệu thô thành insight có giá trị cho doanh nghiệp
-- 🤖 Hướng tới mục tiêu dài hạn: trở thành **Data Analyst / Business Intelligence** chuyên nghiệp
-- 📍 Tân Bình, TP.HCM
+- 🎓 Final-year student in **Data Science** at **HUFLIT** (GPA: 3.22 / 4.0)
+- 🔍 Seeking a **Data Analyst Intern** position to apply Python & SQL skills in real-world settings
+- 📊 Passionate about transforming raw data into valuable business insights
+- 🤖 Long-term goal: becoming a professional **Data Analyst / Business Intelligence** specialist
+- 📍 Tân Bình, Ho Chi Minh City
 
 ---
 
 ## 🧠 Mindset & Approach
 
-- Dữ liệu chỉ có giá trị khi được **làm sạch, phân tích đúng cách và trình bày rõ ràng**.
-- Ưu tiên **hiểu bài toán kinh doanh trước** khi đụng vào dữ liệu.
-- Tự động hóa mọi thứ có thể tự động hóa — từ data cleaning đến báo cáo định kỳ.
-- Học theo hướng sản phẩm: mỗi project đều phải giải quyết một vấn đề thực tế.
+- Data only has value when it is **cleaned, analyzed correctly, and presented clearly**.
+- Always **understand the business problem first** before touching the data.
+- Automate everything that can be automated — from data cleaning to recurring reports.
+- Product-oriented learning: every project must solve a real-world problem.
 
 ---
 
@@ -76,22 +76,22 @@
 ### 🛒 G4Phone – E-Commerce System (ASP.NET Core & SQL)
 `2024 – 2025` | **ASP.NET Core · SQL Server**
 
-> Thiết kế và xây dựng hệ thống cơ sở dữ liệu quản lý sản phẩm, khách hàng và đơn hàng cho cửa hàng điện thoại.
+> Designed and built a database management system for products, customers, and orders for a phone retail store.
 
-- Viết SQL queries để trích xuất và phân tích dữ liệu doanh số & khách hàng
-- Xây dựng backend với ASP.NET Core, áp dụng CRUD và tối ưu truy vấn
-- Cấu trúc dữ liệu phục vụ báo cáo và ra quyết định kinh doanh
+- Wrote SQL queries to extract and analyze sales & customer data
+- Built backend with ASP.NET Core, applying CRUD operations and query optimization
+- Structured data to support business reporting and decision-making
 
 ---
 
 ### 📊 Data Processing & Analysis (Python)
 `2024 – 2025` | **Python · Pandas · NumPy · Matplotlib**
 
-> Xử lý và phân tích bộ dữ liệu thực tế, biến raw data thành insights có thể hành động được.
+> Processed and analyzed real-world datasets, transforming raw data into actionable insights.
 
-- Làm sạch và biến đổi dữ liệu thô (data cleaning & transformation)
-- Phân tích xu hướng, nhận dạng mẫu trong bộ dữ liệu
-- Trực quan hóa kết quả bằng Matplotlib, hỗ trợ ra quyết định dựa trên dữ liệu
+- Cleaned and transformed raw data (data cleaning & transformation)
+- Analyzed trends and identified patterns within datasets
+- Visualized results using Matplotlib to support data-driven decision-making
 
 ---
 
