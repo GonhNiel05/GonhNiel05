@@ -116,11 +116,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GonhNiel05&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonhNiel05&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
+<h2 align="center">🔥 My GitHub Stats and Contributions 🔥</h2>
+<br>
+<div align=center>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yunkhngn/yunkhngn/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+<br>
+<hr/>
 ---
 
 <p align="center"><i>"Data is not just numbers. It's the story of what's really happening."</i></p>
